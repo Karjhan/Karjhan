@@ -5,7 +5,7 @@
 I am Alex Marinescu, and I am an ever-growing fullstack developer. I'm a dedicated and calm person who enjoys challanges and puzzles.
 
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap,postgres,py,github,postman,csharp)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap,postgres,py,github,postman,cs)](https://skills.thijs.gg)
 
 ## What will you find here?
 
