@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋 Welcome to my GitHub!
 
-<!--
-**Karjhan/Karjhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+I am Alex Marinescu, and I am an ever-growing fullstack developer. I'm a dedicated and calm person who enjoys challanges and puzzles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap,postgres,py,github,postman,csharp)](https://skills.thijs.gg)
+
+## What will you find here?
+
+You will find some of my personal and team projects. I've created and teamed-up for these projects to practice and improve my skills, but later
+down the line, you may see some practical applications as well.
+
+All the code and resources here are free to use. If you have any feedback, questions or suggestions, or you need any private resources to run some
+of the applications, don't hesitate to contact me.
+
+
