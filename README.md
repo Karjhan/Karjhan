@@ -3,9 +3,11 @@
 ## Who am I?
 
 I am Alex Marinescu, and I am an ever-growing fullstack developer. I'm a dedicated and calm person who enjoys challanges and puzzles.
+Started out with forensic science & chemistry -> somehow ended up studying mathematics -> then switched to informatics and now I'm having my master's degree in AI. 
+It's been an interesting journey.
 
 ## Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap,postgres,py,github,postman,cs)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vite,css,html,js,ts,cs,dotnet,py,tensorflow,postman,docker,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 ## What will you find here?
 
