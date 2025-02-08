@@ -7,7 +7,7 @@ Started out with forensic science & chemistry -> somehow ended up studying mathe
 It's been an interesting journey.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=angular,react,vite,css,html,js,ts,cs,dotnet,py,tensorflow,postman,docker,postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,angular,react,vite,css,html,js,ts,cs,dotnet,py,tensorflow,postman,docker,postgres,mysql,mongodb,github&theme=dark)](https://skillicons.dev)
 
 ## What will you find here?
 
